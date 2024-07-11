@@ -1,5 +1,6 @@
 ### Repositorio para proyecto de Padel de SmartVision
 #### To do List:
+- [ ] Buscar Dataset
 - [ ] Detección de personas + tracking
 - [ ] Detección de pelotas + tracking
 - [ ] Estimación de pose de jugador
