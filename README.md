@@ -16,6 +16,6 @@
 
 | Tareas de Martín                            | Tareas de Ignacio                             |
 |---------------------------------------------|----------------------------------------------|
-| - [ ] Entrenar yolov8 pelotas y obtener métricas. | - [ ] Testear en video.                      |
+| - Entrenar yolov8 pelotas y obtener métricas. | - Testear en video.                      |
 
 
