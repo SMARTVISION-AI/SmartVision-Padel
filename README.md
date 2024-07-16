@@ -14,14 +14,17 @@
 - [ ] Estimación de pose de jugador (No hacer por el momento)
 - [ ] Homografía de la cancha (Crear código para hacer homografía normal)
 - [ ] Caracterización de jugadores (Encapsular clase jugador)
-- [ ] Crear carpeta drive SmartVision.
+- [x] Crear carpeta drive SmartVision.  
+[Drive SmartVision](https://drive.google.com/drive/folders/1RXhpMJTWTWY7c2lCarVgMQrJ7tH5t4Hh?usp=drive_link)
+
+
 - [ ] Crear dataset tracking jugadores y tomar metricas.
-- [ ] Escribir que caraacteristicas tomar.
+- [ ] Escribir que caracteristicas tomar.
 - [ ] Agregar logica en clase jugador donde se almacenen caracteristicas.
 
 
 | Tareas de Martín                            | Tareas de Ignacio                             |
 |---------------------------------------------|----------------------------------------------|
-| -  | -                   |
+| -  | - |
 
 
